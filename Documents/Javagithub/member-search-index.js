@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"General","c":"GithubPractisePrgm","l":"GithubPractisePrgm()","u":"%3Cinit%3E()"},{"p":"General","c":"GithubPractisePrgm","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
